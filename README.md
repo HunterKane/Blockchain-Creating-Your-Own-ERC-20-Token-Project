@@ -20,3 +20,12 @@ Learn Solidity from scratch with this Blockchain Developer Bootcamp. You'll go f
 # Project 1: DeFI Example - Implementing Your Own Stablecoin
 
 # Final Project: A Decentralized Casino
+
+
+
+
+
+## Reference: 
+
+This course was taught by Zero to Mastery and specific details can be found here:
+https://zerotomastery.io/courses/blockchain-developer-bootcamp/ 

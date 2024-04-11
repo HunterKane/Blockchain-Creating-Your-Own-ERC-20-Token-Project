@@ -17,9 +17,9 @@ Learn Solidity from scratch with this Blockchain Developer Bootcamp. You'll go f
 6) ### Hardhat
 
  
-# Project 1: DeFI Example - Implementing Your Own Stablecoin
+## Project 1: DeFI Example - Implementing Your Own Stablecoin
 
-# Final Project: A Decentralized Casino
+## Final Project: A Decentralized Casino
 
 
 
